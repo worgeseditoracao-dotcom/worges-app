@@ -14,7 +14,7 @@ export default function HomePage() {
               ou artigo: revisão, diagramação, capa, ISBN, DOI e publicação.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
-              <Link href="/agente" className="btn-primary bg-white !text-worges hover:!bg-white/90">
+              <Link href="/agente" className="btn-primary !bg-white !text-worges hover:!bg-white/90">
                 Falar com o Assistente Editorial
               </Link>
               <Link href="/orcamento" className="btn-secondary !border-white !text-white hover:!bg-white/10">
